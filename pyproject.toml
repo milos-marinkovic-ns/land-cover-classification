@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "crop-classification"
+version = "0.1.0"
+description = "Multiple modules for crop classification"
+authors = ["YoNoSoyMarinero1 <1milosmarinkovic1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.3"
+pandas = "^2.2.0"
+geopandas = "^0.14.2"
+rasterio = "^1.3.9"
+scikit-learn = "^1.4.0"
+matplotlib = "^3.8.2"
+toml = "^0.10.2"
+importlib-metadata = "^7.0.1"
+termcolor = "^2.4.0"
+tqdm = "^4.66.1"
+joblib = "^1.3.2"
+seaborn = "^0.13.2"
+imageio = "^2.34.0"
+opencv-python = "^4.9.0.80"
+xgboost = "^2.0.3"
+networkx = "^3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

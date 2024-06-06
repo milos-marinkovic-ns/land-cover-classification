@@ -1,0 +1,17 @@
+{
+    "function_to_call": "train_model",
+    "parameters": {
+      "model_name": "SupportVectorMachine",
+      "model_parameters": {
+        "C": 1.0,
+        "kernel": "rbf",
+        "gamma": "scale"
+      },
+      "train_features_path": "crop-classification\\data\\features_train",
+      "output_path": "C:\\Users\\Polen\\Desktop",
+      "model_directory_path": null,
+      "columns_to_exclude": ["geometry", "culture_ID", "parcel_ID", "region", "Unnamed: 0"],
+      "target_column": "culture_ID"
+    }
+  }
+  

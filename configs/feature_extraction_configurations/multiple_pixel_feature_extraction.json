@@ -1,0 +1,14 @@
+{
+  "function_to_call": "feature_extraction_for_multiple_dates",
+  "parameters": {
+    "gdf_path": "crop-classification/data/ground_truths_train/other_than_6.geojson",
+    "dates": [
+      "20230613",
+      "20230623"
+    ],
+    "routes": ["R036", "R036"],
+    "path_to_sentinel": "D:\\data",
+    "output_path": "crop-classification/data/features_train",
+    "projection": "EPSG:32634"
+  }
+}

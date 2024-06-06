@@ -1,0 +1,10 @@
+{
+    "function_to_call": "test_model",
+    "parameters": {
+        "test_features_path": "crop-classification\\data\\features_test",
+        "model_directory_path": "C:\\Users\\Polen\\Desktop\\region_6_test",
+        "model_report_path":"C:\\Users\\Polen\\Desktop\\region_6_test",
+        "columns_to_exclude": ["geometry", "culture_ID", "parcel_ID", "region", "Unnamed: 0"],
+        "target_column": "culture_ID"
+      }
+}

@@ -1,0 +1,20 @@
+{
+    "function_to_call": "make_masks",
+    "parameters": {
+      "dates": ["20230613", "20230623"],
+      "routes": ["R036", "R036"],
+      "path_to_sentinel": "C:\\Users\\Polen\\Desktop",
+      "output_path": "C:\\Users\\Polen\\Desktop",
+      "model_path": "C:\\Users\\Polen\\Desktop\\XGBoost_2024_04_10_13_22",
+      "projection": "EPSG:32634",
+      "color_map": [[131, 205, 144], 
+      [131, 198, 207], 
+      [239, 222, 172], 
+      [226, 176, 212], 
+      [238, 168, 193], 
+      [182, 171, 240], 
+      [124, 104, 91], 
+      [130, 78, 99], 
+      [0, 0, 0]]
+    }
+  }
