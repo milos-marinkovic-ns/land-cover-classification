@@ -1,4 +1,4 @@
-# Crop classification
+# Land cover classification
 
 This repositry contains modules for crop classification from Sentinel 2 images.
 
