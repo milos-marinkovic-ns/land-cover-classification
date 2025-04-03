@@ -13,7 +13,7 @@ pip install poetry
 Afterward, clone this repository by using the `git clone` command:
 
 ```bash
-git clone http://git.biosens.rs/milos.marinkovic/crop-classification
+git clone git@github.com:milos-marinkovic-ns/land-cover-classification.git
 ```
 
 Now, navigate to this repository by executing the following command:
